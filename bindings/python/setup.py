@@ -44,8 +44,7 @@ setup(
     author = 'Ralph H. Castain',
     author_email = 'ralph.h.castain@intel.com',
     description = 'Python bindings for PMIx',
-    long_description = getLongDescription(),
-    classifiers = [
+    elassifiers = [
             'Development Status :: 1 - Under Construction',
             'Intended Audience :: Developers',
             'Topic :: HPC :: Parallel Programming :: System Management',
